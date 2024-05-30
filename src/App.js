@@ -9,7 +9,7 @@ class App extends Component{
     return (
       <div className="App">
           <div style={{ textAlign: 'center'}}>
-          <h3>Book List Management </h3>
+          <h3>User List Management </h3>
           
           <UserList />
           <UserDetails />
